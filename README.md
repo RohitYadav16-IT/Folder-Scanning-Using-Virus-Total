@@ -66,9 +66,7 @@ The **File Reputation Checker** is a comprehensive application designed to scan 
 ### HTML Report
 ![HTML Report](images/html_report.png)
 
-## Contributions
 
-Contributions are welcome! Please feel free to submit issues or pull requests.
 
 
 This README provides a structured overview of your project, highlighting its main features and usage instructions, while making it accessible for potential contributors and users. 
