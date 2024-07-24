@@ -1,6 +1,3 @@
-Here's a concise overview of your project to include in your README file on GitHub:
-
----
 
 # File Reputation Checker
 
