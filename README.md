@@ -58,13 +58,19 @@ The **File Reputation Checker** is a comprehensive application designed to scan 
 ## Screenshots
 
 ### Main Interface
-![Main Interface](images/main_interface.png)
+![Screenshot_2024-07-25_09_31_14](https://github.com/user-attachments/assets/8d66ff60-6cb0-4d25-bbee-488963d7c4c8)
+![Screenshot_2024-07-25_09_31_17](https://github.com/user-attachments/assets/b272542b-b0a8-4031-97ac-6bf3c058b7a1)
+
+
 
 ### Old Files Interface
-![Old Files Interface](images/old_files_interface.png)
+![Screenshot_2024-07-25_09_31_25](https://github.com/user-attachments/assets/4044ecc6-63f9-4b7d-a8d8-c3d151ee74cc)
+![Screenshot_2024-07-25_09_31_30](https://github.com/user-attachments/assets/c64ad095-3c56-4a70-b3ad-8cd364556e2f)
+
+
 
 ### HTML Report
-![HTML Report](images/html_report.png)
+[File Reputation Information.pdf](https://github.com/user-attachments/files/16370235/File.Reputation.Information.pdf)
 
 
 
