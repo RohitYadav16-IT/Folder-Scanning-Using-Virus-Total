@@ -30,19 +30,14 @@ The **File Reputation Checker** is a comprehensive application designed to scan 
    git clone https://github.com/yourusername/file-reputation-checker.git
    cd file-reputation-checker
    ```
-
-2. Install the required Python packages:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Add your VirusTotal API keys in the `refresh()` function for file reputation checks.
+   
+2. Add your VirusTotal API keys in the `refresh()` function for file reputation checks.
 
 ## Usage
 
 1. **Run the Application**:
    ```bash
-   python file_reputation_checker.py
+   python code.py
    ```
 
 2. **Scan Files**:
